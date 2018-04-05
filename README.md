@@ -6,3 +6,4 @@ Haciendo cambios para commit desde git, vamos a ver si me funciona
 Haciendo un merge si es posible
 
 cambios de master
+Cambio hecho en rama_nueva
