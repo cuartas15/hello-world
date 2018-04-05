@@ -4,3 +4,5 @@ Estoy aprendiendo esta herramienta porque aparentemente es mejor que SVN, esta m
 
 Haciendo cambios para commit desde git, vamos a ver si me funciona
 Haciendo un merge si es posible
+
+Cambio hecho en rama_nueva
